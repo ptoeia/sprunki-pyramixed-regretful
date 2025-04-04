@@ -2,9 +2,7 @@
 
 ## About the Game
 
-Sprunki Pyramixed Regretful is an innovative music creation game that combines traditional rhythm gameplay with deep emotional expression. Experience a unique blend of haunting melodies and profound musical storytelling as you craft compositions that resonate with deep emotional undertones.
-
-Play the game at: [http://sprunkiretake.io/games/sprunki-pyramixed-regretful](http://sprunkiretake.io/games/sprunki-pyramixed-regretful)
+[Sprunki Pyramixed Regretful](http://sprunkiretake.io/games/sprunki-pyramixed-regretful) is an innovative music creation game that combines traditional rhythm gameplay with deep emotional expression. Experience a unique blend of haunting melodies and profound musical storytelling as you craft compositions that resonate with deep emotional undertones.
 
 ## Features
 
